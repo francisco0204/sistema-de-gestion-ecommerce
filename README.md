@@ -1,4 +1,4 @@
-# 🛒 Sistema de Gestión E-Commerce (MVP)
+#  Sistema de Gestión E-Commerce (MVP)
 
 Este es un sistema de gestión para un E-Commerce desarrollado con una arquitectura de monorepo. Cuenta con una API REST en el backend construida con Java y una interfaz de usuario moderna en el frontend utilizando React y Vite.
 
